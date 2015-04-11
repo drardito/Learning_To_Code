@@ -37,3 +37,7 @@ Here are a set of challenges (just like last time). Have your turtle:
 * Draw a triangle with randomly generated colors on each side
 * Draw a circle
 * Write your first name in block letters
+
+###Way Beyond the Basics
+Now that you have some experience with Python Turtle Graphics, it's time for you to really play around.
+[Here] (https://docs.python.org/3/library/turtle.html) you will find all the details about the various functions in Python Turtle Graphics. Look it over. Try things out. Share your successes (and failures).
